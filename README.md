@@ -1,2 +1,4 @@
 # Data-Visuvalization-and-Storytelling
-Create visualizations of sales data that convey a compelling story.
+Create visualizations of Ecommerce sales data that convey a compelling story.
+
+
