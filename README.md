@@ -1,5 +1,7 @@
 # Data-Visuvalization-and-Storytelling
-Create visualizations of Ecommerce sales data that convey a compelling story.
+Objective : Create visualizations of Ecommerce sales data that convey a compelling story.
+
+Tools : Power BI
 
 Here's a visual storytelling summary based on the E-Commerce Sales Power BI dashboard :
 
