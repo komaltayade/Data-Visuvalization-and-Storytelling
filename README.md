@@ -1,7 +1,7 @@
 # Data-Visuvalization-and-Storytelling
 Create visualizations of Ecommerce sales data that convey a compelling story.
 
-Here's a visual storytelling summary based on the E-Commerce Power BI dashboard created by Komal Tayade:
+Here's a visual storytelling summary based on the E-Commerce Sales Power BI dashboard :
 
 - E-Commerce Performance Overview
 
