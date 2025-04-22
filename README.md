@@ -37,4 +37,9 @@ Insights and Recommendations
 3. Optimize Shipping Strategy: High dependency on Standard Class – explore incentives for faster modes to improve customer experience.
 4. Grow Underperforming Countries: Mexico, India, and Germany show lower sales – room for targeted campaigns.
 
+Impact:
+
+This dashboard enabled stakeholders to identify high-performing regions and categories, uncover cost inefficiencies, 
+and guide data-driven strategic decisions for marketing, logistics, and sales expansion.
+
 
