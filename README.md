@@ -1,4 +1,4 @@
-# Data-Visuvalization-and-Storytelling
+# Task 2 : Data-Visuvalization-and-Storytelling
 Objective : Create visualizations of Ecommerce sales data that convey a compelling story.
 
 Tools : Power BI
